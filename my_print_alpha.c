@@ -1,7 +1,13 @@
 #include <stdio.h>
 
+int print_alpha(void)
+{
+    printf("abcdefghijklmnopqrstuvwxyz");
+    return (0);
+}
+
 int main(void)
 {
-    printf("Je suis ouss");
+    print_alpha();
     return (0);
 }
