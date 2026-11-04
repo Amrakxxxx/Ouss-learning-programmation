@@ -1,3 +1,5 @@
 .vscode
 .git
 a.exe
+*.o
+*.ghc
